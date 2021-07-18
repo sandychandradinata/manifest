@@ -3,7 +3,7 @@
     "background_color": "#ffffff",
     "display": "standalone",
     "start_url": "https://sandy.chandradinata.com",
-	"prefer_related_applications": "false",
+    "prefer_related_applications": "false",
     "name": "Sandy Apk",
     "short_name": "Sandy Apk",
     "description": "Sandy.chandradinata.com Application",
