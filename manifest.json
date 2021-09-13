@@ -1,33 +1,21 @@
 {
-    "theme_color": "#000000",
-    "background_color": "#ffffff",
+    "theme_color": "#fff",
+    "background_color": "#fff",
     "display": "standalone",
-    "start_url": "https://sandy.chandradinata.com",
-    "prefer_related_applications": "false",
-    "name": "Sandy Apk",
-    "short_name": "Sandy Apk",
-    "description": "Sandy.chandradinata.com Application",
+    "start_url": "https://sandy.chandradinata.com/",
+    "prefer_related_applications": false,
+    "name": "Sandy",
+    "short_name": "Sandy",
+    "description": "Personal Web Sandy Yusuf Candradinata, Graphic Design, Web, Video Editor and Application ",
     "icons": [
         {
-            "src": "https://1.bp.blogspot.com/-isQ-6Zg4mYQ/YPOl1CQrWaI/AAAAAAAAAP4/49Ls_xKJd1wI1Y3NRML_FdaGMwfgrqvAQCLcBGAsYHQ/s0/icon-192x192.png",
+            "src": "https://1.bp.blogspot.com/-rd2u6C7kAxE/YT7hvJGP4QI/AAAAAAAAAXU/4jgEJaKPaBo58xhQKOJBFoWH2ukv-o0UgCLcBGAsYHQ/s192/sandy512.png",
             "sizes": "192x192",
             "type": "image/png",
 	    "purpose": "maskable any"
         },
         {
-            "src": "https://1.bp.blogspot.com/--CtzlQT-wKE/YPOl1nBNqZI/AAAAAAAAAP8/zpANbzjPNrYRJ0sCF42Hi3SbYiVivU0NACLcBGAsYHQ/s0/icon-256x256.png",
-            "sizes": "256x256",
-            "type": "image/png",
-	    "purpose": "maskable any"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-twZER55sJLY/YPOl18wE_jI/AAAAAAAAAQA/xB4DeHIxNJ8ejj0ZNAO6E2bwGusZd7z8ACLcBGAsYHQ/s0/icon-384x384.png",
-            "sizes": "384x384",
-            "type": "image/png",
-	    "purpose": "maskable any"
-        },
-        {
-            "src": "https://1.bp.blogspot.com/-w5Gbu_eJFL0/YPOl4BuzOtI/AAAAAAAAAQE/3Z9zWr1ASlEZlR1QDmYm6fePa-flAvKMwCLcBGAsYHQ/s0/icon-512x512.png",
+            "src": "https://1.bp.blogspot.com/-rd2u6C7kAxE/YT7hvJGP4QI/AAAAAAAAAXU/4jgEJaKPaBo58xhQKOJBFoWH2ukv-o0UgCLcBGAsYHQ/s512/sandy512.png",
             "sizes": "512x512",
             "type": "image/png",
 	    "purpose": "maskable any"
